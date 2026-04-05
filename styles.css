@@ -1,1 +1,7 @@
 /* css styles */
+
+/* Listing table: no bold anywhere */
+#listing-listing th,
+#listing-listing td {
+  font-weight: normal;
+}

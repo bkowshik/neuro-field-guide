@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-About this site
+Neuro Field Guide is a collection of hands-on notes on neuroscience software tools — one library at a time.
+
+Each entry covers what a tool does, when to reach for it, and how to get started, with a focus on practical usage over exhaustive documentation.
+
+The goal is a quick, opinionated reference for researchers and engineers working with neural data.

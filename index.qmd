@@ -1,7 +1,11 @@
 ---
 title: "Neuro Field Guide"
+listing:
+  contents: "*/index.qmd"
+  type: table
+  fields: [title, subtitle, date]
+  sort: "date desc"
+  field-display-names:
+    date: "Last Updated"
+page-layout: full
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

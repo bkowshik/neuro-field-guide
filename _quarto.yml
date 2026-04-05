@@ -9,6 +9,9 @@ website:
         text: Home
       - about.qmd
 
+language:
+  title-block-published: "Last Updated"
+
 format:
   html:
     theme:
